@@ -1,0 +1,8 @@
+AEDT initialized
+Project and design created
+Standard RIS unit geometry created: patch/substrate/ground/air cell/Floquet sheet
+PEC assigned to patch and ground
+AutoIdentifyLatticePair created: 1, Lattice Pair, 2, Lattice Pair
+Floquet port assigned on top sheet with normal-incidence lattice vectors
+Project saved: data/hfss/periodic_unit/HFSS_28GHz_Periodic_RIS_UnitCell.aedt
+Done: standard periodic RIS unit cell project built

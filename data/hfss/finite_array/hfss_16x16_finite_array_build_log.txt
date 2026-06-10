@@ -1,0 +1,9 @@
+AEDT initialized
+Project and design created
+Finite 16x16 RIS geometry created: 256 patch elements
+PEC assigned to ground and 256 patch elements
+Radiation boundary assigned to AirBox
+Normal-incidence plane wave assigned
+Conservative single-frequency setup inserted: 28 GHz, max passes=2
+Project saved: data/hfss/finite_array/HFSS_28GHz_16x16_Finite_RIS_Array.aedt
+Done: finite 16x16 RIS array HFSS project built

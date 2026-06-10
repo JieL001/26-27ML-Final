@@ -1,0 +1,12 @@
+AEDT initialized
+Project and design created
+Finite 8x8 RIS geometry created: 64 patch elements
+PEC assigned to ground and 64 patch elements
+Radiation boundary assigned
+Plane wave assigned
+Conservative 8x8 single-frequency setup inserted
+Project saved: data/hfss/finite_array/HFSS_28GHz_8x8_Finite_RIS_Array.aedt
+Native HFSS 8x8 model image exported: data/hfss/finite_array/hfss_8x8_native_model_export.png
+AnalyzeAll started: 8x8 finite-array sanity full-wave solve
+AnalyzeAll completed
+Project saved after solve

@@ -1,0 +1,6 @@
+AEDT initialized
+Project opened: data/hfss/periodic_unit/HFSS_28GHz_Periodic_RIS_UnitCell.aedt
+Boundaries: PEC_Metals, Perfect E, 1, Lattice Pair, 2, Lattice Pair
+FitAll OK
+Exported native HFSS model image: data/hfss/periodic_unit/hfss_periodic_native_model_export.png
+Project saved

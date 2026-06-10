@@ -1,0 +1,5 @@
+state,target_phase_deg,patch_length_mm,hfss_phase_deg,phase_error_deg,reflection_mag
+0,0,4.8,357.82,2.18,0.955
+1,90,2.655,91.83,1.83,0.89
+2,180,3.04,177.36,2.64,0.816
+3,270,3.425,268.21,1.79,0.869

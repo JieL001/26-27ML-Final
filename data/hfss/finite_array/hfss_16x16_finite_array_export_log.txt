@@ -1,0 +1,6 @@
+AEDT initialized
+Project opened: data/hfss/finite_array/HFSS_28GHz_16x16_Finite_RIS_Array.aedt
+Boundaries: PEC_RIS_Metals, Perfect E, Rad_AirBox, Radiation
+FitAll OK
+Exported native HFSS 16x16 model image: data/hfss/finite_array/hfss_16x16_native_model_export.png
+Project saved

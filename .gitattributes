@@ -1,0 +1,10 @@
+*.aedt binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.csv text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.m text eol=lf
+*.txt text eol=lf

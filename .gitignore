@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Local render and temporary output folders
+*_render_check/
+*_precheck/
+temp/
+tmp/
+
+# Local CAD solver scratch files
+*.lock
+*.aedtresults/
+*.aedb/
+*.log.tmp
+
+# Local working copies
+working/

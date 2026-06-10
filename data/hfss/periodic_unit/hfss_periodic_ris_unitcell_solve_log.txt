@@ -1,0 +1,5 @@
+AEDT initialized
+Project opened
+Boundaries: PEC_Metals, Perfect E, 1, Lattice Pair, 2, Lattice Pair
+AnalyzeAll completed
+Project saved

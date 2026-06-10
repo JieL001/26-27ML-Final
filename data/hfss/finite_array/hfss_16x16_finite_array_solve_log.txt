@@ -1,0 +1,10 @@
+AEDT initialized
+Project opened
+Boundaries: PEC_RIS_Metals, Perfect E, Rad_AirBox, Radiation
+AnalyzeAll started: 28GHz finite 16x16 RIS array, max passes=2
+ERROR
+Traceback (most recent call last):
+  File "C:/Users/PC/Desktop/MD-Lateterm/hfss_16x16_finite_array_solve.py", line 35, in <module>
+    oDesign.AnalyzeAll()
+Exception: AnalyzeAll()() - call failed. Logs or message window might have more details
+
